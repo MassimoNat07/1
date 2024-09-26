@@ -1,0 +1,37 @@
+form {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin-bottom: 300px;
+}
+
+.sign-in-button {
+	margin-left: 570px;
+	color: gold;
+	font-family: "Times new roman";
+	font-size: 20px;
+}
+
+.log-in-button {
+	margin-left: 580px;
+	font-family: "Times new roman";
+	font-size: 20px;
+	color: gold;
+}
+
+label {
+	transform: scale(1.4);
+	display: block;
+}
+
+.header-sign-in h1 {
+	font-size: 60px;
+}
+
+.record {
+	color: gold;
+}
+
+.login-text {
+	color: gold;
+}
